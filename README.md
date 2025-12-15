@@ -6,9 +6,9 @@ This repository contains the complete submission for the Fynd AI Intern Take-Hom
 
 | Component | Status | Link |
 | :--- | :--- | :--- |
-| **User Dashboard** | 🟢 Live | [INSERT YOUR STREAMLIT APP URL HERE] |
-| **Admin Dashboard** | 🟢 Live | [INSERT YOUR STREAMLIT APP URL HERE] |
-| **Project Report** | 📄 PDF | [INSERT LINK TO YOUR PDF REPORT HERE] |
+| **User Dashboard** | 🟢 Live | [https://fynd-aigit-ipmmd67rjcayaruhcqsnjk.streamlit.app/)] |
+| **Admin Dashboard** | 🟢 Live | [https://fynd-aigit-ipmmd67rjcayaruhcqsnjk.streamlit.app/)] |
+| **Project Report** | 📄 PDF | [] |
 
 *(Note: The User and Admin dashboards are hosted on the same Streamlit app. Use the sidebar to toggle between them.)*
 
@@ -64,8 +64,8 @@ If you wish to run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [INSERT YOUR GITHUB REPO LINK HERE]
-    cd [YOUR REPO NAME]
+    git clone https://github.com/aymanbhaldar/Fynd-AI
+    cd Fynd-AI
     ```
 
 2.  **Install dependencies:**
@@ -88,5 +88,5 @@ If you wish to run this project locally, follow these steps:
 
 ---
 
-**Author:** [Your Name]
+**Author:** Ayman Bhaldar
 **Date:** December 2025
