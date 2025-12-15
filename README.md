@@ -7,7 +7,7 @@ This repository contains the complete submission for the Fynd AI Intern Take-Hom
 | Component | Status | Link |
 | :--- | :--- | :--- |
 | **User Dashboard** | 🟢 Live | https://fynd-aigit-ipmmd67rjcayaruhcqsnjk.streamlit.app/#leave-a-review |
-| **Admin Dashboard** | 🟢 Live |  |
+| **Admin Dashboard** | 🟢 Live | https://fynd-aigit-ipmmd67rjcayaruhcqsnjk.streamlit.app/ |
 | **Project Report** | 📄 PDF | [] |
 
 *(Note: The User and Admin dashboards are hosted on the same Streamlit app. Use the sidebar to toggle between them.)*
